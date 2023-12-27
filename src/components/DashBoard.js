@@ -26,7 +26,7 @@ const DashBoard = () => {
         </div>
         <div className='cv mt-3 '>
         <a href={CV}
-         download="" className='cv__name'>Download my CV</a>
+         download="Harshith_frontend_developer" className='cv__name'>Download my CV</a>
         </div>
       </div>
       <div>
